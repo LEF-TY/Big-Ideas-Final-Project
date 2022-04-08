@@ -1,7 +1,7 @@
 # Big-Ideas-Final-Project
 **By: (insert team name here)** [*Group #46*]
 
-*Stella Bailey: stb118@pitt.edu, Lukas Finn: lef74@pitt.edu, and Hafsah Shahzah: has207@pitt.edu*
+*Stella Bailey: stb118@pitt.edu, Lukas Finn: lef74@pitt.edu, and Hafsah Shahzad: has207@pitt.edu*
 
 
 Our repository's goal is to determine the best neighborhood in Pittsburgh, we looked at multiple metrics involving the average age that people die in each neighborhood, {insert your metric here}, and {insert your metric here}.
