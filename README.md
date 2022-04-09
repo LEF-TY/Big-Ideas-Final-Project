@@ -11,9 +11,9 @@ Our repository's goal is to determine the best neighborhood in Pittsburgh, we lo
 
 *This dataset specifically looks at the average age (using the median) that people die in each neighborhood. It separates the deaths by race; however, in this project, I only looked at the total deaths.*
 
-**{Insert data set title}: {insert data set link}**
+**School District Blood Lead Level Test Results: https://data.wprdc.org/dataset/26a17866-0b8b-4eb6-bc0c-6ebcfdd19741/resource/e99fa58e-f09a-4aa0-90a9-7996a0bca147/download/wprdc_schooldistrict_ebll15_20.csv**
 
-*{insert data set description}*
+*This data set described the level of lead, in percentage, of each school district over the span of 5 years. I decided to find the highest percentage and then find the neighborhood located in that specified school district.*
 
 **{Insert data set title}: {insert data set link}**
 
