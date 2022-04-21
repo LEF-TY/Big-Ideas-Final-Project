@@ -1,5 +1,5 @@
 # Big-Ideas-Final-Project
-**By: (insert team name here)** [*Group #46*]
+**By:** [*Group #46*]
 
 *Stella Bailey: stb118@pitt.edu, Lukas Finn: lef74@pitt.edu, and Hafsah Shahzad: has207@pitt.edu*
 
