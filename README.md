@@ -13,7 +13,7 @@ Our repository's goal is to determine the best neighborhood in Pittsburgh, we lo
 
 **School District Blood Lead Level Test Results: https://data.wprdc.org/dataset/allegheny-county-elevated-blood-lead-level-rates/resource/e99fa58e-f09a-4aa0-90a9-7996a0bca147?view_id=6306bb29-c67f-4a79-8247-fb02b5207876**
 
-*This data set described the level of lead, in percentage, of each school district over the span of 5 years. I decided to find the highest percentage and then find the neighborhood located in that specified school district.*
+*This data set described the level of lead, in percentage, of each school district over the span of 5 years. I decided to find the lowest percentage and then find the neighborhood located in that specified school district.*
 
 **Allegheny County Fatal Accidental Overdoses: https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses**
 
